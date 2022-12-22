@@ -131,6 +131,7 @@ function CadastroPost() {
     }
 
     return (
+        <Grid container direction="row" justifyContent="center" alignItems="center" className='fundo'>
         <Container maxWidth="sm" className="topo grid6">
             <form onSubmit={onSubmit} className='cordotexto'>
                 <Typography variant="h3" color="textSecondary" component="h1" align="center" ><h5 className='cordotexto'>Cadastre a postagem</h5></Typography>
@@ -160,6 +161,7 @@ function CadastroPost() {
                 </FormControl>
             </form>
         </Container>
+            </Grid>
     )
 }
 export default CadastroPost;
