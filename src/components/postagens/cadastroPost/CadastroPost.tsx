@@ -1,5 +1,5 @@
 import React, { ChangeEvent, useEffect, useState } from 'react'
-import { Container, Typography, TextField, Button, Select, InputLabel, MenuItem, FormControl, FormHelperText, Grid } from "@material-ui/core";
+import { Container, Typography, TextField, Button, Select, InputLabel, MenuItem, FormControl, FormHelperText } from "@material-ui/core";
 import './CadastroPost.css';
 import { useNavigate, useParams } from 'react-router-dom';
 import Tema from '../../../models/Tema';
@@ -131,7 +131,6 @@ function CadastroPost() {
     }
 
     return (
-        <Grid container direction="row" justifyContent="center" alignItems="center" className='fundo'>
         <Container maxWidth="sm" className="topo grid6">
             <form onSubmit={onSubmit} className='cordotexto'>
                 <Typography variant="h3" color="textSecondary" component="h1" align="center" ><h5 className='cordotexto'>Cadastre a postagem</h5></Typography>
@@ -161,7 +160,6 @@ function CadastroPost() {
                 </FormControl>
             </form>
         </Container>
-            </Grid>
     )
 }
 export default CadastroPost;
