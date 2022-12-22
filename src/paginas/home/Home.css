@@ -1,0 +1,33 @@
+.caixa{
+    background-color: #000000;
+}
+
+.titulo{
+   color: rgb(255, 255, 255) !important;
+   font-weight: bold !important;
+}
+
+.botao{
+    border-color: rgb(255, 253, 253) !important;
+    background-color: #000000;
+    color: rgb(255, 252, 252) !important;
+}
+
+.postagens{
+    background-image: url("/src/components/estaticos/image/matrix.webp") !important;
+    background-repeat:no-repeat ;
+  
+     background-size: cover ;
+     background-position:center;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.grid5{
+    background-color: rgb(0, 0, 0);
+    border-top-left-radius: 100px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 100px;
+}
