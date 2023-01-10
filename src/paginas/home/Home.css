@@ -14,7 +14,7 @@
 }
 
 .postagens{
-    background-image: url("/src/components/estaticos/image/matrix.webp") !important;
+    background-image: url("") !important;
     background-repeat:no-repeat ;
   
      background-size: cover ;
