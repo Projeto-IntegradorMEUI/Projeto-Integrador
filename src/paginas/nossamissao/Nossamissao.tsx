@@ -6,7 +6,7 @@ import './Nossamissao.css';
 function Nossamissao() {
   return (
     <>
-    <Grid container justifyContent='center' alignItems='center' className='imgb'>
+    <Grid container justifyContent='center' alignItems='center'>
     <Grid alignItems="center" item xs={6}>
      <Box paddingX={0}>
  
