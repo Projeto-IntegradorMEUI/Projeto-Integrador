@@ -82,15 +82,6 @@ function Navbar() {
                             <img src={logout} className='logout'></img>
                         </Typography>
                     </Box>
-
-                    <Link to="/login" className="text-decorator-none">
-                <Box mx={1} className='cursor' display="flex">
-                    <Typography variant="h6" >
-                    <img src={imglogin} className='imglogin'></img>
-                    </Typography>
-                </Box>
-                </Link>
-              
                 
             </Box>
 
