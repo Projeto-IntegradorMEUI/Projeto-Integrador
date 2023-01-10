@@ -14,7 +14,6 @@ import HOME from '../../estaticos/image/HOME.png';
 import SOBRE_NOS from '../../estaticos/image/SOBRE_NOS.png';
 import logout from '../../estaticos/image/logout.png';
 import NOSSA_MISSAO from '../../estaticos/image/NOSSA_MISSAO.png';
-import imglogin from '../../estaticos/image/imgdelogin.png'
 
 function Navbar() {
     const token = useSelector<TokenState, TokenState["tokens"]>(
