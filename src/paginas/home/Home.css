@@ -31,3 +31,11 @@
     border-top-right-radius: 70px;
     border-bottom-right-radius: 100px;
 }
+
+.wallpaperfundo3{
+    background-image: url("https://cdn.discordapp.com/attachments/1047476710578331680/1062706665423634432/green_background_spots-design_HD_wallpaper_1366x768.jpg") !important;
+    background-repeat:no-repeat ;
+  
+     background-size: cover ;
+     background-position:center;
+}
