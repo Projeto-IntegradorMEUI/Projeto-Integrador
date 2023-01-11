@@ -76,7 +76,7 @@ function Navbar() {
                 </Link>
 
 
-                <Box mx={1} className='cursor' onClick={goLogout}>
+                <Box mx={1} className='cursor' onClick={goLogout} justifyContent='right' alignItems='right'>
                         <Typography variant="h6" color="inherit">
                             <img src={logout} className='logout'></img>
                         </Typography>
