@@ -17,7 +17,7 @@ function Nossamissao() {
        </Box>
    </Grid>
    <Grid item xs={6} >
-                   <img src="https://cdn.discordapp.com/attachments/1014550882538504273/1052917572586188810/MVV-removebg-preview.png" alt="" width= "622px" height="550px" />
+                   <img src="https://cdn.discordapp.com/attachments/1047476710578331680/1062699269779370024/visaooo.png" alt="" width= "622px" height="550px" />
                </Grid>
                 </Grid>
                </>
