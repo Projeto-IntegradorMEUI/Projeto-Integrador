@@ -29,11 +29,11 @@ function Footer() {
                     </Box>
                     <Box className='box2'>
                         <Box paddingTop={1}>
-                            <Typography variant="subtitle2" align="center" gutterBottom style={{ color: "yellow" }} >© 2022 Projeto MEUI</Typography>
+                            <Typography variant="subtitle2" align="center" gutterBottom style={{ color: "green" }} >© 2022 Projeto MEUI</Typography>
                         </Box>
                         <Box>
                             <a target="_blank" href="">
-                                <Typography variant="subtitle2" gutterBottom style={{ color: "yellow" }} align="center">Projeto MEUI: Erradicação contra a Pobreza.</Typography>
+                                <Typography variant="subtitle2" gutterBottom style={{ color: "green" }} align="center">Projeto MEUI: Erradicação contra a Pobreza.</Typography>
                             </a>
                         </Box>
                     </Box>
