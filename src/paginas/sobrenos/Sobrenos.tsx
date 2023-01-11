@@ -6,7 +6,7 @@ import './Sobrenos.css';
 function Sobrenos() {
   return (
    <>
-   <Grid container justifyContent='center' alignItems='center'>
+   <Grid container justifyContent='center' alignItems='center' className='wallpaperfundo'>
    <Grid alignItems="center" item xs={6}>
     <Box paddingX={0}>
 
