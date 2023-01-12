@@ -87,7 +87,7 @@ function Login() {
                     <Box marginRight={1}>
                         <Typography variant='subtitle1' gutterBottom align='center'>Crie sua conta</Typography>
                     </Box>
-                    <Link to='/cadastrousuario'>
+                    <Link to='/cadastrousuario' className='txt'>
                     <Button type='submit' variant='contained' className='botton txt'>
                 Cadastre-se!
                </Button>
