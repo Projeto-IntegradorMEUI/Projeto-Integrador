@@ -16,13 +16,13 @@ function Footer() {
                             <Typography variant="h5" align="center" gutterBottom className='textos'>Saiba mais sobre o nosso projeto: Entre em contato</Typography>
                         </Box>
                         <Box display="flex" alignItems="center" justifyContent="center">
-                            <a href="https://projeto-integrador-roan.vercel.app/login" target="_blank">
+                            <a href="https://www.facebook.com/generationbrasil" target="_blank">
                                 <FacebookIcon className='redes' />
                             </a>
-                            <a href="https://projeto-integrador-roan.vercel.app/login" target="_blank">
+                            <a href="https://www.instagram.com/generationbrasil/" target="_blank">
                                 <InstagramIcon className='redes' />
                             </a>
-                            <a href="https://projeto-integrador-roan.vercel.app/login" target="_blank">
+                            <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank">
                                 <LinkedInIcon className='redes' />
                             </a>
                         </Box>
